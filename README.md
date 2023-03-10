@@ -18,7 +18,7 @@
 
 > [Amazon S3](https://github.com/Rogerio-mack/SNV/blob/main/SNV_Aula_S3.pdf)
 
->> [Tutorial: Configuring a static website on Amazon S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/HostingWebsiteOnS3Setup.html)*(validado em 2023.03.03)*
+>> [Tutorial: Configuring a static website on Amazon S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/HostingWebsiteOnS3Setup.html) *(validado em 23.03.03)*
 
 >> **Laboratório S3**: Crie um site estático, uma página html, no S# e informe a URL de acesso. Sua página deve ter no mínimo uma figura.
 
