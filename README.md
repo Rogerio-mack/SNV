@@ -20,11 +20,11 @@
 
 >> [Tutorial: Configuring a static website on Amazon S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/HostingWebsiteOnS3Setup.html)*(validado em 2023.03.03)*
 
->> Laboratório S3: Crie um site estático, uma página html, no S# e informe a URL de acesso. Sua página deve ter no mínimo uma figura.
+>> **Laboratório S3**: Crie um site estático, uma página html, no S# e informe a URL de acesso. Sua página deve ter no mínimo uma figura.
 
 > [Conectando instâncias EC2, `putty`, `RDP`](https://github.com/Rogerio-mack/SNV/blob/main/SNV_Aula_Conectando_EC2_Putty_RDP.pdf)
  
->> Laboratório EC2: Crie e acesse uma instância EC2 Linux (Amazon Linux) e acesse via `Putty`. Poste uma imagem (.png ou .pdf) como esta [aqui](https://github.com/Rogerio-mack/SNV/raw/main/figs/LinuxEC2print_putty.png).
+>> **Laboratório EC2**: Crie e acesse uma instância EC2 Linux (Amazon Linux) e acesse via `Putty`. Poste uma imagem (.png ou .pdf) como esta [aqui](https://github.com/Rogerio-mack/SNV/raw/main/figs/LinuxEC2print_putty.png).
 
 ### [Virtualização](https://github.com/Rogerio-mack/SNV/blob/main/SNV_Aula2_Virtualizacao.pdf)
 
