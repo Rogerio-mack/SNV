@@ -30,6 +30,8 @@
 
 ### [Virtualização](https://github.com/Rogerio-mack/SNV/blob/main/SNV_Aula2_Virtualizacao.pdf)
 
+>> **Laboratório VirtualBox**: Crie instância Ubuntu Linux com o [VirtualBox](https://virtualbox.org)
+
 ### [Aplicações em Nuvem](https://github.com/Rogerio-mack/SNV/blob/main/SNV_Aula3_Aplicacoes_em_Nuvem.pdf)
 
 ### [Armazenamento em Nuvem](https://github.com/Rogerio-mack/SNV/blob/main/SNV_Aula4_Armazenamento_em_Nuvem.pdf)
