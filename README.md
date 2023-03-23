@@ -32,6 +32,8 @@
 
 >> **Laboratório VirtualBox**: Crie instância Ubuntu Linux com o [VirtualBox](https://virtualbox.org)
 
+>> **Laboratório EC2 (2)**: Crie e acesse uma instância EC2 Windows e acesse via RDP (Remote Desktop Protocol). Poste uma imagem (.png ou .pdf) como esta [aqui](https://github.com/Rogerio-mack/SNV/raw/main/figs/WindowsEC2print_putty.png).
+
 ### [Aplicações em Nuvem](https://github.com/Rogerio-mack/SNV/blob/main/SNV_Aula3_Aplicacoes_em_Nuvem.pdf)
 
 ### [Armazenamento em Nuvem](https://github.com/Rogerio-mack/SNV/blob/main/SNV_Aula4_Armazenamento_em_Nuvem.pdf)
