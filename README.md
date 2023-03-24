@@ -39,6 +39,8 @@
 >> [The Datacenter as a Computer: An Introduction to the Design of Warehouse-Scale Machines](https://github.com/Rogerio-mack/SNV/blob/main/dccomputer.pdf) 
 Luiz André Barroso and Urs Hölzle 2009 (also [here](http://www.cs.yale.edu/homes/yu-minlan/teach/csci599-fall12/papers/dccomputer.pdf))
 
+>> [Google Data Center 360 Tour](https://www.youtube.com/watch?v=zDAYZU4A3w0&ab_channel=GoogleCloudTech)
+
 ### [Aplicações em Nuvem](https://github.com/Rogerio-mack/SNV/blob/main/SNV_Aula3_Aplicacoes_em_Nuvem.pdf)
 
 ### [Armazenamento em Nuvem](https://github.com/Rogerio-mack/SNV/blob/main/SNV_Aula4_Armazenamento_em_Nuvem.pdf)
