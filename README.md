@@ -36,7 +36,7 @@
 
 >> **Laboratório EC2 (2)**: Crie e acesse uma instância EC2 Windows e acesse via RDP (Remote Desktop Protocol). Poste uma imagem (.png ou .pdf) como esta [aqui](https://github.com/Rogerio-mack/SNV/raw/main/figs/WindowsEC2print_putty.png).
 
->> Artigo CAPSI 2008 [Inserindo a Virtualização nos serviços e processos de TI](https://github.com/Rogerio-mack/SNV/blob/main/vmImpactRisk.pdf) 
+>> Artigo CAPSI 2008 [Inserindo a Virtualização nos serviços e processos de TI](https://github.com/Rogerio-mack/SNV/blob/main/vmImpactRisk.pdf)*
 
 >> [The Datacenter as a Computer: An Introduction to the Design of Warehouse-Scale Machines](https://github.com/Rogerio-mack/SNV/blob/main/dccomputer.pdf) 
 Luiz André Barroso and Urs Hölzle 2009 (also [here](http://www.cs.yale.edu/homes/yu-minlan/teach/csci599-fall12/papers/dccomputer.pdf))*
