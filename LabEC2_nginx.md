@@ -7,8 +7,9 @@ Siga os seguintes passos:
 1. Crie uma instância **EC2 Linux 2** com uma chave privada `.ppk`. Você vai criar um webserver, não deixe, portanto, de liberar o tráfego `http` e `https`.
 2. Você fará o acesso via outra máquina Linux (ou PowerShell) via linha comando. Para isso você irá precisar de uma chave privada no formato openSSH. 
 Empregue o programa `puttygen` para converter o formato da sua chave `.ppk`.
-3. Acesse uma máquina Linux, ou via o PowerShell do Windows, e conecte-se à sua instância EC2.
-4. Instale o `nginx`
+3. Acesse uma máquina Linux, PowerShell do Windows ou Cloud Shell da AWS* e conecte-se à sua instância EC2.
+> Para Cloud Shell da AWS, faça o upload da chave no Cloud Shell e altere a permissão do arquivo `chmod 400 suachave.ppk`
+5. Instale o `nginx`
 
 ```
 sudo yum update -y
