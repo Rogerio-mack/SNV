@@ -45,8 +45,7 @@ Luiz André Barroso and Urs Hölzle 2009 (also [here](http://www.cs.yale.edu/hom
 
 ### [Aplicações em Nuvem](https://github.com/Rogerio-mack/SNV/blob/main/SNV_Aula3_Aplicacoes_em_Nuvem.pdf)
 
->> **Laboratório EC2 `nginx`**: [Crie um webserver `nginx`]
-(https://github.com/Rogerio-mack/SNV/blob/main/LabEC2_nginx.md)
+>> **Laboratório EC2 `nginx`**: [Crie um webserver `nginx`](https://github.com/Rogerio-mack/SNV/blob/main/LabEC2_nginx.md)
 
 ### [Armazenamento em Nuvem](https://github.com/Rogerio-mack/SNV/blob/main/SNV_Aula4_Armazenamento_em_Nuvem.pdf)
 
