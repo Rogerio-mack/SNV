@@ -1,0 +1,131 @@
+# How to install Docker on Amazon Linux 2
+sudo yum update
+sudo yum search docker
+sudo yum info docker
+
+sudo yum install docker
+
+# Optional: Add group membership for the default ec2-user so you can run all docker commands without using the sudo command:
+
+sudo usermod -a -G docker ec2-user
+id ec2-user
+# Reload a Linux user's group assignments to docker w/o logout
+newgrp docker
+
+# Optional: Enable docker service at AMI boot time:
+sudo systemctl enable docker.service
+
+# Start the Docker service:
+sudo systemctl start docker.service
+
+# Verificando a instalação 
+sudo docker run hello-world
+
+# Verificando as imagens ativas e concluídas
+sudo docker ps
+sudo docker ps -a
+
+# Busca a imagem do busybox no registro do Docker e a salva em nosso sistema
+sudo docker pull busybox
+
+# Executa um comando e retorna
+# Veja que o ls do docker retorna diretórios diferentes da maquina original
+# Após a execução do comando a imagem não está mais ativa
+sudo docker run busybox ls
+ls
+
+sudo docker ps -a
+
+sudo docker run busybox echo "Olá pessoal!"
+
+# -it permite um terminal interativo no contêiner
+sudo docker run -it busybox sh
+ls
+exit
+
+# Um container é efêmero, vamos criar um arquivo no container... mas quando iniciarmos será um novo container 
+# e o arquivo não existe mais
+sudo docker run -it busybox sh
+ls
+echo 'teste' > teste.txt
+ls
+exit
+sudo docker run -it busybox sh
+ls
+exit
+
+# Romovendo os containers
+sudo docker rm 305297d7a235
+sudo docker rm $(docker ps -a -q -f status=exited)
+
+# Inicializando um nginx
+# Nginx é um servidor leve de HTTP Opensource
+# -d dettach mode
+# -it para ficar ativo
+# -p port
+sudo docker pull nginx 
+sudo docker run -d -it -p 8080:80 nginx
+
+# curl transferência de dados entre diferentes protocolos, incluindo http
+curl 0.0.0.0:8080 
+
+# E você pode tentar no Browser,
+# localhost:8080
+
+# Vamos alterar a página do nginx?
+
+# Entrando no container do nginx
+sudo docker exec -it charming_shannon /bin/bash
+ls
+
+# Procurando as configurações do nginx
+# Esse diretório pode variar de Linux para Linux
+cat etc/nginx/conf.d/default.conf
+ls usr/share/nginx/html
+cat usr/share/nginx/html/index.html
+
+# Substituindo a página default do nginx
+
+# Você pode preferir criar a página no sistema Linux principal já que 
+# não um editor para isso na imagem no nginx
+# Depois, então, pode copiar o arquivo para o container com o comando docker cp
+#
+# Eu tenho uma página pronta e trarei ela para o servidor Linux com o comando wget
+# ...de volta ao Linux pois o wget não está disponível na imagem do nginx/conf
+wget http://meusite.mackenzie.br/rogerio/miniCV2.html
+sudo docker cp miniCV2.html charming_shannon:usr/share/nginx/html
+
+# De volta ao container, vamos trocar o arquivo index.html pela página desejada
+cd usr/share/nginx/html
+ls 
+mv index.html index_old.html
+mv miniCV2.html index.html
+
+# Você pode então empregar o curl o Browser para ver novament o resultado
+curl 0.0.0.0:8080 
+
+# E você pode tentar no Browser,
+# localhost:8080
+
+# Hora de parar o container...
+sudo docker stop charming_shannon
+
+# Você pode agora remover o container com rm, 
+# iniciar um outro nginx para reestabelecer a página original
+# e muito mais...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
