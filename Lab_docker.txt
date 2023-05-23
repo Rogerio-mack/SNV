@@ -1,3 +1,7 @@
+#
+# Docker on Amazon Linux 2 
+#---------------------------------------------------------------------------------
+
 # How to install Docker on Amazon Linux 2
 sudo yum update
 sudo yum search docker
@@ -18,6 +22,10 @@ sudo systemctl enable docker.service
 # Start the Docker service:
 sudo systemctl start docker.service
 
+#
+# Docker on https://labs.play-with-docker.com/
+#---------------------------------------------------------------------------------
+ 
 # Verificando a instalação 
 sudo docker run hello-world
 
