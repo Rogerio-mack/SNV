@@ -12,23 +12,33 @@
 
 <br>
 
-### [Conceitos de Computação em Nuvem](https://github.com/Rogerio-mack/SNV/blob/main/SNV_Aula1_Conceitos_de_Computacao_em_Nuvem.pdf)
+### Conceitos de Computação em Nuvem
 
-> [The NIST Definition of Cloud Computing](https://github.com/Rogerio-mack/SNV/blob/main/nistspecialpublication800-145.pdf)
+[**Notas Conceitos de Computação em Nuvem**](https://github.com/Rogerio-mack/SNV/blob/main/SNV_Aula1_Conceitos_de_Computacao_em_Nuvem.pdf)
 
-> [Amazon S3](https://github.com/Rogerio-mack/SNV/blob/main/SNV_Aula_S3.pdf)
+<br>
 
->> [Tutorial: Configuring a static website on Amazon S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/HostingWebsiteOnS3Setup.html) *(validado em 23.03.03)*
+>> [The NIST Definition of Cloud Computing](https://github.com/Rogerio-mack/SNV/blob/main/nistspecialpublication800-145.pdf)
 
->> **Laboratório S3**: Crie um site estático, uma página html, no S# e informe a URL de acesso. Sua página deve ter no mínimo uma figura.
+>> [Amazon S3](https://github.com/Rogerio-mack/SNV/blob/main/SNV_Aula_S3.pdf)
+
+>>> [Tutorial: Configuring a static website on Amazon S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/HostingWebsiteOnS3Setup.html) *(validado em 23.03.03)*
+
+>>> **Laboratório S3**: Crie um site estático, uma página html, no S# e informe a URL de acesso. Sua página deve ter no mínimo uma figura.
 
 >> [**Google Cloud Foundations Academy 2023 (opcional)**](https://github.com/Rogerio-mack/GCF) Informe a URL de acesso ao seu perfil público no https://www.cloudskillsboost.google/ após completar ao menos 4 badges.
  
-> [Conectando instâncias EC2, `putty`, `RDP`](https://github.com/Rogerio-mack/SNV/blob/main/SNV_Aula_Conectando_EC2_Putty_RDP.pdf)
+>> [Conectando instâncias EC2, `putty`, `RDP`](https://github.com/Rogerio-mack/SNV/blob/main/SNV_Aula_Conectando_EC2_Putty_RDP.pdf)
 
 >> **Laboratório EC2**: Crie e acesse uma instância EC2 Linux (Amazon Linux) e acesse via `Putty`. Poste uma imagem (.png ou .pdf) como esta [aqui](https://github.com/Rogerio-mack/SNV/raw/main/figs/LinuxEC2print_putty.png).
 
-### [Virtualização](https://github.com/Rogerio-mack/SNV/blob/main/SNV_Aula2_Virtualizacao.pdf)
+<br>
+
+### Virtualização
+
+[**Notas Virtualização**](https://github.com/Rogerio-mack/SNV/blob/main/SNV_Aula2_Virtualizacao.pdf)
+
+<br>
 
 >> **Laboratório VirtualBox**: Crie instância Ubuntu Linux com o [VirtualBox](https://virtualbox.org)
 
@@ -43,11 +53,21 @@ Luiz André Barroso and Urs Hölzle 2009 (also [here](http://www.cs.yale.edu/hom
 
 >> [Google Data Center 360 Tour](https://blog.google/inside-google/infrastructure/googles-data-centers-inside-look/)*
 
-### [Aplicações em Nuvem](https://github.com/Rogerio-mack/SNV/blob/main/SNV_Aula3_Aplicacoes_em_Nuvem.pdf)
+<br>
+
+### Aplicações em Nuvem
+
+[**Notas Aplicações em Nuvem**](https://github.com/Rogerio-mack/SNV/blob/main/SNV_Aula3_Aplicacoes_em_Nuvem.pdf)
+
+<br>
 
 >> **Laboratório EC2 `nginx`**: [Crie um webserver `nginx`](https://github.com/Rogerio-mack/SNV/blob/main/LabEC2_nginx.md)
 
 >> [**Docker script**](https://github.com/Rogerio-mack/SNV/blob/main/Lab_docker.txt)
 
-### [Armazenamento em Nuvem](https://github.com/Rogerio-mack/SNV/blob/main/SNV_Aula4_Armazenamento_em_Nuvem.pdf)
+<br>
+
+### Armazenamento em Nuvem
+
+[**Notas Armazenamento em Nuvem**](https://github.com/Rogerio-mack/SNV/blob/main/SNV_Aula4_Armazenamento_em_Nuvem.pdf)
 
