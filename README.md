@@ -4,13 +4,15 @@
 
 <br>
 
-# [Serviços em Nuvem](https://github.com/Rogerio-mack/SNV)
+# [Serviços em Nuvem - 2024S1](https://github.com/Rogerio-mack/SNV)
 
 `Oliveira, R. (2023)` rogerio.oliveira@mackenzie.br
 
 <br>
 
 <br>
+
+Preencha [aqui](https://docs.google.com/spreadsheets/d/1AuOc5wrKxTRAUyscyZ_tKTVgmn4tyg3WHTNRA9QjOx0/edit?usp=sharing) o cadastro para o AWS Learning.
 
 ### Conceitos de Computação em Nuvem
 
