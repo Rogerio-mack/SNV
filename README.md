@@ -4,7 +4,7 @@
 
 <br>
 
-# [https://github.com/Rogerio-mack/SNV - 2024S1](https://github.com/Rogerio-mack/SNV)
+# [https://github.com/Rogerio-mack/SNV](https://github.com/Rogerio-mack/SNV) 2024S1
 
 `Oliveira, R. (2023)` rogerio.oliveira@mackenzie.br
 
