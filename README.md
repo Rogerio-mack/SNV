@@ -12,7 +12,7 @@
 
 <br>
 
-Preencha [aqui](https://docs.google.com/spreadsheets/d/1AuOc5wrKxTRAUyscyZ_tKTVgmn4tyg3WHTNRA9QjOx0/edit?usp=sharing) o cadastro para o AWS Learning.
+Preencha [aqui](https://docs.google.com/spreadsheets/d/1AuOc5wrKxTRAUyscyZ_tKTVgmn4tyg3WHTNRA9QjOx0/edit?usp=sharing) o cadastro para o AWS Learning e Erro no Acesso à Azure Education.
 
 Acesso [MS Azure Education](https://www.mackenzie.br/gerti/estudantes-e-funcionarios/softwares/microsoft-azure-education-da-universidade)
 
