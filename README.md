@@ -4,7 +4,9 @@
 
 <br>
 
-# [https://github.com/Rogerio-mack/SNV](https://github.com/Rogerio-mack/SNV) 2024S1
+# Serviços em Nuvem
+
+### [https://github.com/Rogerio-mack/SNV](https://github.com/Rogerio-mack/SNV) 2024S1
 
 `Oliveira, R. (2023)` rogerio.oliveira@mackenzie.br
 
@@ -12,9 +14,9 @@
 
 <br>
 
-Preencha [aqui](https://docs.google.com/spreadsheets/d/1AuOc5wrKxTRAUyscyZ_tKTVgmn4tyg3WHTNRA9QjOx0/edit?usp=sharing) o cadastro para o AWS Learning ([AWS Academy](https://www.awsacademy.com/)) e Erro no Acesso à Azure Education.
+Acesso [Portal Azure Education](https://portal.azure.com), *entre com o e-mail @mackenzista.com.br*
 
-Acesso [MS Azure Education](https://www.mackenzie.br/gerti/estudantes-e-funcionarios/softwares/microsoft-azure-education-da-universidade)
+Acesso [AWS Academy](https://www.awsacademy.com/), *entre a partir do invite no seu email cadastrado [aqui](https://docs.google.com/spreadsheets/d/1AuOc5wrKxTRAUyscyZ_tKTVgmn4tyg3WHTNRA9QjOx0/edit?usp=sharing)
 
 <br>
 
@@ -26,11 +28,16 @@ Acesso [MS Azure Education](https://www.mackenzie.br/gerti/estudantes-e-funciona
 
 <br>
 
->> [The NIST Definition of Cloud Computing](https://github.com/Rogerio-mack/SNV/blob/main/nistspecialpublication800-145.pdf)
+> [The NIST Definition of Cloud Computing](https://github.com/Rogerio-mack/SNV/blob/main/nistspecialpublication800-145.pdf)
 
+> **Lab 1**: Crie e acesse uma máquina Virtual Linux na Azure
+
+> **Questionário 1**
+
+<!--
 >> [Amazon S3](https://github.com/Rogerio-mack/SNV/blob/main/SNV_Aula_S3.pdf)
 
->>> [Tutorial: Configuring a static website on Amazon S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/HostingWebsiteOnS3Setup.html) *(validado em 23.03.03)*
+>>> [Tutorial: Configuring a static website on Amazon S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/HostingWebsiteOnS3Setup.html) 
 
 >>> **Laboratório S3**: Crie um site estático, uma página html, no S# e informe a URL de acesso. Sua página deve ter no mínimo uma figura.
 
@@ -39,6 +46,7 @@ Acesso [MS Azure Education](https://www.mackenzie.br/gerti/estudantes-e-funciona
 >> [Conectando instâncias EC2, `putty`, `RDP`](https://github.com/Rogerio-mack/SNV/blob/main/SNV_Aula_Conectando_EC2_Putty_RDP.pdf)
 
 >> **Laboratório EC2**: Crie e acesse uma instância EC2 Linux (Amazon Linux) e acesse via `Putty`. Poste uma imagem (.png ou .pdf) como esta [aqui](https://github.com/Rogerio-mack/SNV/raw/main/figs/LinuxEC2print_putty.png).
+-->
 
 <br>
 
@@ -48,6 +56,7 @@ Acesso [MS Azure Education](https://www.mackenzie.br/gerti/estudantes-e-funciona
 
 <br>
 
+<!--
 >> **Laboratório VirtualBox**: Crie instância Ubuntu Linux com o [VirtualBox](https://virtualbox.org)
 
 >> [Virtualização Benefícios](https://github.com/Rogerio-mack/SNV/blob/main/SNV_Virtualizacao_Beneficios.pdf)
@@ -61,6 +70,8 @@ Luiz André Barroso and Urs Hölzle 2009 (also [here](http://www.cs.yale.edu/hom
 
 >> [Google Data Center 360 Tour](https://blog.google/inside-google/infrastructure/googles-data-centers-inside-look/)*
 
+-->
+
 <br>
 
 ### Aplicações em Nuvem
@@ -69,9 +80,12 @@ Luiz André Barroso and Urs Hölzle 2009 (also [here](http://www.cs.yale.edu/hom
 
 <br>
 
+<!--
 >> **Laboratório EC2 `nginx`**: [Crie um webserver `nginx`](https://github.com/Rogerio-mack/SNV/blob/main/LabEC2_nginx.md)
 
 >> [**Docker script**](https://github.com/Rogerio-mack/SNV/blob/main/Lab_docker.txt)
+
+--> 
 
 <br>
 
