@@ -32,7 +32,7 @@ Acesso [AWS Academy](https://www.awsacademy.com/), *entre a partir do invite no 
 
 > [**Lab 1**: Crie e acesse uma máquina Virtual Linux na Azure](https://github.com/Rogerio-mack/SNV/blob/main/Lab1_Azure.md)
  
-> [**Lab 2**: Putty/PuttyGen, acesse via Window sua VM Linux na Azure](https://github.com/Rogerio-mack/SNV/blob/main/Lab2_Azure.md)
+> [**Lab 2**: Putty/PuttyGen, acesse via Windows sua VM Linux na Azure](https://github.com/Rogerio-mack/SNV/blob/main/Lab2_Azure.md)
 
 > **Questionário 1** (*Moodle*)
 
