@@ -35,6 +35,8 @@ Acesso [AWS Academy](https://www.awsacademy.com/), *entre a partir do invite no 
 > [**Lab 2**: Putty/PuttyGen, acesse via Windows sua VM Linux na Azure](https://github.com/Rogerio-mack/SNV/blob/main/Lab2_Azure.md)
 
 > **Questionário 1** (*Moodle*)
+ 
+> [Introdução às Redes em Nuvem](https://github.com/Rogerio-mack/SNV/blob/main/Introducao_Redes_em_Nuvem_AWS.pdf)
 
 <!--
 >> [Amazon S3](https://github.com/Rogerio-mack/SNV/blob/main/SNV_Aula_S3.pdf)
