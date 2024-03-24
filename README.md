@@ -6,8 +6,6 @@
 
 # Serviços em Nuvem
 
-### [https://github.com/Rogerio-mack/SNV](https://github.com/Rogerio-mack/SNV) 2024S1
-
 `Oliveira, R. (2023)` rogerio.oliveira@mackenzie.br
 
 <br>
@@ -35,7 +33,8 @@ Acesso [AWS Academy](https://www.awsacademy.com/), *entre a partir do invite no 
 > [**Lab 2**: Putty/PuttyGen, acesse via Windows sua VM Linux na Azure](https://github.com/Rogerio-mack/SNV/blob/main/Lab2_Azure.md)
 
 > [**Lab 3**: Crie sua VPC e execute um servidor web na AWS]()
-https://www.awsacademy.com/ > LMS > AWS Academy Cloud Foundations [73331] > Laboratório 2 - Crie sua VPC e execute um servidor web
+
+>> https://www.awsacademy.com/ > LMS > AWS Academy Cloud Foundations [73331] > Laboratório 2 - Crie sua VPC e execute um servidor web
   
 
 > **Questionário 1** (*Moodle*)
