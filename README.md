@@ -20,6 +20,12 @@ Acesso [AWS Academy](https://www.awsacademy.com/), *entre a partir do invite no 
 
 <br>
 
+[**Download notas N1**](https://github.com/Rogerio-mack/SNV/raw/main/05H11%20Notas.xlsx)
+
+<br>
+
+<br>
+
 ### Conceitos de Computação em Nuvem
 
 [**Notas Conceitos de Computação em Nuvem**](https://github.com/Rogerio-mack/SNV/blob/main/SNV_Aula1_Conceitos_de_Computacao_em_Nuvem.pdf)
