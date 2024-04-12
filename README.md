@@ -69,6 +69,7 @@ Acesso [AWS Academy](https://www.awsacademy.com/), *entre a partir do invite no 
 
 <br>
 
+[Google Cloud Foundations](https://github.com/Rogerio-mack/GCF) +0.5 na N2, **inscrições terminam hoje!**
 <!--
 >> **Laboratório VirtualBox**: Crie instância Ubuntu Linux com o [VirtualBox](https://virtualbox.org)
 
