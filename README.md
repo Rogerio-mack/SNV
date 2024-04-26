@@ -1,4 +1,4 @@
-<a href="url"><img src="http://meusite.mackenzie.br/rogerio/mackenzie_logo/UPM.2_horizontal_vermelho.jpg" align="right" width="200" ></a>
+![image](https://github.com/Rogerio-mack/SNV/assets/58958893/6e8ee53f-8f21-4873-869c-6f60087f09f7)<a href="url"><img src="http://meusite.mackenzie.br/rogerio/mackenzie_logo/UPM.2_horizontal_vermelho.jpg" align="right" width="200" ></a>
 
 <br>
 
@@ -72,6 +72,8 @@ Acesso [AWS Academy](https://www.awsacademy.com/), *entre a partir do invite no 
 [Google Cloud Foundations](https://github.com/Rogerio-mack/GCF) +0.5 na N2, **inscrições terminam hoje, 12.04!**
 
 [2024-04-19, Leia este artigo](https://github.com/Rogerio-mack/SNV/blob/main/vmImpactRisk.pdf)
+
+[Visão geral da infraestrutura global de provedores de nuvem](https://github.com/Rogerio-mack/SNV/blob/main/HA_DR_Processos.pdf)
 
 <!--
 >> **Laboratório VirtualBox**: Crie instância Ubuntu Linux com o [VirtualBox](https://virtualbox.org)
