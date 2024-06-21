@@ -11,16 +11,12 @@
 <br>
 <br>
 
-Acesso [Portal Azure Education](https://portal.azure.com), *entre com o e-mail @mackenzista.com.br*
-
-Acesso [AWS Academy](https://www.awsacademy.com/)
-
-<br>
-<br>
-
-### Apresentação
+### Apresentação da Disciplina
 
 [Vídeo de Apresentação](https://meusite.mackenzie.br/rogerio/SNV/SNV_apresentacao.mp4)
+
+* Acesso [Portal Azure Education](https://portal.azure.com), *entre com o e-mail @mackenzista.com.br*
+* Acesso [AWS Academy](https://www.awsacademy.com/)
 
 <br>
 
@@ -57,6 +53,8 @@ Luiz André Barroso and Urs Hölzle 2009 (also [here](http://www.cs.yale.edu/hom
 
 * [Vídeo Aula 3 - Ponto de Partida](https://meusite.mackenzie.br/rogerio/SNV/SNV_Aula3_ponto_de_partida.mp4)
 * [Vídeo Aula 3 - Professor Resolve](https://meusite.mackenzie.br/rogerio/SNV/SNV_Aula3_professor_resolve.mp4)
+
+<br>
 
 ### (Módulo 4) Armazenamento em Nuvem
 
