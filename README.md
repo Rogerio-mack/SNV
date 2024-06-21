@@ -27,9 +27,7 @@
 * [Vídeo Aula 1 - Ponto de Partida](https://meusite.mackenzie.br/rogerio/SNV/SNV_Aula1_ponto_de_partida.mp4)
 * [Vídeo Aula 1 - Professor Resolve](https://meusite.mackenzie.br/rogerio/SNV/SNV_Aula1_professor_resolve.mp4)
 
-##### Leitura Complementar
-
-> [The NIST Definition of Cloud Computing](https://github.com/Rogerio-mack/SNV/blob/main/nistspecialpublication800-145.pdf)
+##### Leitura Complementar: [The NIST Definition of Cloud Computing](https://github.com/Rogerio-mack/SNV/blob/main/nistspecialpublication800-145.pdf)
 
 <br>
 
@@ -40,10 +38,7 @@
 * [Vídeo Aula 2 - Ponto de Partida](https://meusite.mackenzie.br/rogerio/SNV/SNV_Aula2_ponto_de_partida.mp4)
 * [Vídeo Aula 2 - Professor Resolve](https://meusite.mackenzie.br/rogerio/SNV/SNV_Aula2_professor_resolve.mp4)
 
-##### Leitura Complementar
-
-> [The Datacenter as a Computer: An Introduction to the Design of Warehouse-Scale Machines](https://github.com/Rogerio-mack/SNV/blob/main/dccomputer.pdf) 
-Luiz André Barroso and Urs Hölzle 2009 (also [here](http://www.cs.yale.edu/homes/yu-minlan/teach/csci599-fall12/papers/dccomputer.pdf))*
+##### Leitura Complementar: [The Datacenter as a Computer: An Introduction to the Design of Warehouse-Scale Machines](https://github.com/Rogerio-mack/SNV/blob/main/dccomputer.pdf) *Luiz André Barroso and Urs Hölzle (2009)* (também [aqui](http://www.cs.yale.edu/homes/yu-minlan/teach/csci599-fall12/papers/dccomputer.pdf))
 
 <br>
 
